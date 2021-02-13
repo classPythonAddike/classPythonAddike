@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![classPythonAddike's Github Stats](https://github-readme-stats.vercel.app/api?username=classPythonAddike&show_icons=true&count_private=true)](https://github.com/classPythonAddike/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=classPythonAddike)](https://github.com/classPythonAddike/)
+
 <!--
 **classPythonAddike/classPythonAddike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
