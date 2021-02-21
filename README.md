@@ -6,5 +6,4 @@
 
 - 🔭 I’m currently working on a programming language, an IDE, a transpiler for C++, and a secret API! :)
 - 🌱 I’m currently learning C# along with Windows Forms!
-- 💬 Ask me about 
-- 📫 How to reach me: ...
+- 💬 Ask me about Desktop App Development with Python, Golang or C#!
