@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=classPythonAddike&show_icons=true&count_private=true&include_all_commits=true&theme=monokai"/> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=classPythonAddike&theme=monokai"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classPythonAddike&theme=monokai"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classPythonAddike&theme=monokai&layout=compact"/> <br>
 </p>
 <h3 align="center">Github Trophies</h3>
 <p align="center">
