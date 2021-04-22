@@ -12,5 +12,5 @@
 </p>
 
 - 🔭 I’m currently working on a programming language, an IDE, a transpiler for C++, and a secret API! :)
-- 🌱 I’m currently learning Vue.js!
-- 💬 Ask me about Desktop App Development with Python, Golang, C++ or C#!
+<!------ 🌱 I’m currently learning Vue.js! ---------->
+- 💬 Ask me about Desktop App Development with Python, Golang, or C#!
